@@ -40,7 +40,6 @@ A curated list of some of the best research groups in Computer Vision
 | Computer Vision Lab | KAIST | Visual recognition, 3D vision, medical imaging | [Link](https://cvlab.kaist.ac.kr/) |
 | Computer Vision Lab | Seoul National University | Scene understanding, visual recognition | [Link](https://cv.snu.ac.kr/) |
 | Australian Institute for Machine Learning | University of Adelaide | Visual recognition, medical imaging, surveillance | [Link](https://www.adelaide.edu.au/aiml/) |
-| Disney Research | Disney | Entertainment-focused computer vision applications | [Link](https://la.disneyresearch.com/) |
 | Computer Vision Laboratory | University of Maryland | Object recognition, scene understanding, video analysis | [Link](https://www.cfar.umd.edu/) |
 | Toyota Technological Institute | Chicago | Vision algorithms for autonomous systems | [Link](https://www.ttic.edu/) |
 | Computer Vision Group | University of Michigan | 3D reconstruction, object recognition, medical imaging | [Link](https://web.eecs.umich.edu/~justincj/) |
@@ -67,6 +66,7 @@ A curated list of some of the best research groups in Computer Vision
 | Microsoft Research | Microsoft | Computer vision with researchers like Nowozin, Fitzgibbon, Minka | [Link](https://www.microsoft.com/en-us/research/) |
 | Amazon Science | Amazon | Vision applications for retail, robotics, cloud services | [Link](https://www.amazon.science/) |
 | Google Research | Google | Vision algorithms for various Google products and services | [Link](https://research.google/) |
+| Disney Research | Disney | Entertainment-focused computer vision applications | [Link](https://la.disneyresearch.com/) |
 | Apple Computer Vision Research | Apple | Vision systems for Apple devices and services | [Link](https://machinelearning.apple.com/) |
 | SenseTime | SenseTime | Chinese leader in computer vision and deep learning | [Link](https://www.sensetime.com/en) |
 | MegVii | MegVii | Face recognition and general vision systems | [Link](https://en.megvii.com/) |
