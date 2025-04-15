@@ -56,6 +56,8 @@ A curated list of some of the best research groups in Computer Vision
 | Machine Intelligence Lab | University of Cambridge | Probabilistic models for vision, led by Zoubin Ghahramani | [Link](https://mil.eng.cam.ac.uk/) |
 | Computer Vision Lab | National University of Singapore | Scene understanding, 3D reconstruction | [Link](https://www.comp.nus.edu.sg/) |
 | Computational Perception Lab | Georgia Tech | Human-centered perception systems | [Link](https://faculty.cc.gatech.edu/~hays/) |
+| Vision and AI Lab (VAL)| Indian Institute of Science Bangalore | Computer Vision and ML | [Link](https://val.cds.iisc.ac.in/) |
+| Image Processing and Computer Vision (IPCV) Lab| Indian Institute of Technology Madras | Multi-Modal CV, 3D Recovery and Image Synthesis | [Link](https://www.ee.iitm.ac.in/ipcvlab/) |
 
 ## Industry Research Groups
 
