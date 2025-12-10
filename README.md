@@ -90,6 +90,13 @@ Here are some of the prominent research groups in Computer Vision:
 **Website:** [CVLab](https://cvlab.epfl.ch)  
 **Notable Contributions:** Known for research in visual tracking and scene understanding.
 
+### 11. Autonomous Vision Group in Tuebingen AI Center
+
+**Location:** Tuebingen University, Germany  
+**Focus Areas:** Computer Vision, Natural Language, Robotics
+**Website:** [Tuebingen AI]([https://cvlab.epfl.ch](https://tuebingen.ai/))  
+**Notable Contributions:** Focus on 2D and 3D representations of objects and scenes, reconstructing geometry and materials and learning discriminative and generative models for vision and language.
+
 ## Contributing
 
 We welcome contributions to this repository! If you know of a research group that should be included, please follow these steps:
