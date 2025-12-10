@@ -94,7 +94,7 @@ Here are some of the prominent research groups in Computer Vision:
 
 **Location:** Tuebingen University, Germany  
 **Focus Areas:** Computer Vision, Natural Language, Robotics
-**Website:** [Tuebingen AI]([https://cvlab.epfl.ch](https://tuebingen.ai/))  
+**Website:** [Tuebingen AI](https://tuebingen.ai/)
 **Notable Contributions:** Focus on 2D and 3D representations of objects and scenes, reconstructing geometry and materials and learning discriminative and generative models for vision and language.
 
 ## Contributing
